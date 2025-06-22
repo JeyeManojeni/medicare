@@ -1,0 +1,9 @@
+.missed {
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+  .taken {
+    background-color: green;
+    border-radius: 50%;
+  }
